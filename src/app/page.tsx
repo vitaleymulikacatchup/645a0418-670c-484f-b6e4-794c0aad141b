@@ -34,7 +34,7 @@ export default function Home() {
           title="About MemeLoop"
           descriptions={[
             "MemeLoop is a hub to celebrate and create the best memes.",
-            "Join a community of meme enthusiasts and share your creativity.",
+            "Join a community of meme enthusiasts and share your creativity."
           ]}
         />
       </div>
